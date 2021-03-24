@@ -32,6 +32,14 @@
             "description": "ID of users that can use the bot commands",
             "value": ""
         },
+        "UPDATE_CHANNEL": {
+            "description": "Your Channel UserName Without @",
+            "value": "HxBots"
+        },
+        "SUPPORT_GROUP": {
+            "description": "Your Group UserName Without @",
+            "value": "HxSupport"
+        },
         "DATABASE_URI": {
             "description": "Database URL from https://cloud.mongodb.com/",
             "value": ""
