@@ -23,6 +23,11 @@ class Config(object):
     # Your database name from mongoDB
     DATABASE_NAME = str(os.environ.get("DATABASE_NAME", "Cluster0"))
 
+    # Your channel username without @
+    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "HxBots")
+
+    # Your support group username without @
+    SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "HxSupport")
 
     # ID of users that can use the bot commands
     AUTH_USERS = set(str(x) for x in os.environ.get("AUTH_USERS", "").split())
