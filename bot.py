@@ -18,8 +18,6 @@ if __name__ == "__main__" :
         bot_token=Config.TG_BOT_TOKEN,
         api_id=Config.API_ID,
         api_hash=Config.API_HASH,
-        update_channel=Config.UPDATE_CHANNEL,
-        support_group=Config.SUPPORT_GROUP,
         plugins=plugins,
         workers=300
     )
