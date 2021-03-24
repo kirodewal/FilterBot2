@@ -45,7 +45,7 @@ async def cb_handler(client, query):
                 ],
                 [
                     InlineKeyboardButton("BOT Channel", url="https://t.me/{update_channel}"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/{Config.SUPPORT_GROUP})
+                    InlineKeyboardButton("Support Group", "SUPPORT_GROUP")
                 ]
             ]
         )
