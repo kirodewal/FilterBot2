@@ -44,8 +44,8 @@ async def cb_handler(client, query):
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/{UPDATE_CHANNEL}"),
-                    InlineKeyboardButton("Support Group", callback_data="support_group")
+                    InlineKeyboardButton("BOT Channel", url="https://t.me/{UP"),
+                    InlineKeyboardButton("Support Group" =  "{update_channel}")
                 ]
             ]
         )
