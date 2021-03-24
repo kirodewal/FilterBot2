@@ -63,3 +63,8 @@ See <i>/help</i> for commands and more details.</b>
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
 """
+
+
+   CHANNEL_MSG = """Join My Update Channel Config.UPDATE_CHANNEL\n     for latest updates
+
+"""
