@@ -1,3 +1,5 @@
+# @kirodewal
+
 import os
 
 if bool(os.environ.get("WEBHOOK", False)):
@@ -42,7 +44,7 @@ async def addconnection(client,message):
     except Exception as e:
         print(e)
         await message.reply_text(
-            "Invalid Group ID!\n\nIf correct, Make sure I'm present in your group!!",
+            "Invalid Group ID!\n\nIf correct, Make sure I'm present in your group!! get help from @Hxsupport",
             quote=True
         )
         return
