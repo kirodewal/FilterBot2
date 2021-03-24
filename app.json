@@ -1,16 +1,16 @@
 {
-    "name": "UNLIMITED FILTER BOT",
+    "name": "FILTERBOT2",
     "description": "An unlimited filter bot using Mongo DB",
     "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
     "keywords": [
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "HxBots"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://Pay2me.vercel.app",
+    "repository": "https://github.com/Kirodewal/FilterBot2",
+    "success_url": "https://telegram.dog/Kirodewal",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
