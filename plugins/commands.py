@@ -1,3 +1,5 @@
+# @kirodewal
+
 import os
 import math
 import json
@@ -247,8 +249,8 @@ async def help(client, message):
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("BOT Channel", url="https://t.me/HxBots"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/HxSupport")
                 ]
             ]
         ),
@@ -265,7 +267,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "SOURCE CODE", url="https://github.com/Kirodewal/FilterBot2")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
