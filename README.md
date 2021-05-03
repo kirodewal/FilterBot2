@@ -19,9 +19,9 @@
   </a>  
 </p>
 
-[![HxBots](https://img.shields.io/badge/Update-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/HxBots)  
+[![HxBots](https://img.shields.io/badge/HxBots-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/HxBots)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![HxSupport](https://img.shields.io/badge/Support-Group-red?style=flat&logo=telegram)](https://telegram.dog/HxSupport)  [![Kirodewal](https://img.shields.io/badge/Pay2me-Website-red?style=flat&logo=CodersRank)](https://pay2me.vercel.app)  
+[![HxSupport](https://img.shields.io/badge/HxSupport-Group-red?style=flat&logo=telegram)](https://telegram.dog/HxSupport)  [![Kirodewal](https://img.shields.io/badge/Donation-Website-red?style=flat&logo=CodersRank)](https://pay2me.vercel.app)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kirodewal/FilterBot2)
 
