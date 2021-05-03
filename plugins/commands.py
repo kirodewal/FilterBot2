@@ -219,7 +219,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Command Help", callback_data="help_data")
+                    InlineKeyboardButton("How To Use Me 😕", callback_data="help_data")
                 ]
             ]
         ),
@@ -245,7 +245,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("Source Code", url="https://t.me/HxSourceCode/12"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
@@ -267,7 +267,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/Kirodewal/FilterBot2")
+                        "SOURCE CODE", url="https://t.me/HxSourceCode/12")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
